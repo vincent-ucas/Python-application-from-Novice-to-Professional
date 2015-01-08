@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed87eaa7-fa28-451a-900a-8576e9bea14b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10/standar libs/email.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py" afterPath="$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py" />
     </list>
     <ignored path="Python-application-from-Novice-to-Professional.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$textRegularExpression.coverage" NAME="textRegularExpression Coverage Results" MODIFIED="1420725846436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
+    <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$textRegularExpression.coverage" NAME="textRegularExpression Coverage Results" MODIFIED="1420726464868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$database__1_.coverage" NAME="database (1) Coverage Results" MODIFIED="1420723657051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$time_mod.coverage" NAME="time_mod Coverage Results" MODIFIED="1420723701305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/module" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$mod_test.coverage" NAME="mod_test Coverage Results" MODIFIED="1420723682873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/module" />
@@ -57,8 +55,8 @@
       <file leaf-file-name="textRegularExpression.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5412371" vertical-offset="0" max-vertical-offset="388">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.72938144" vertical-offset="32" max-vertical-offset="450">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -604,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5412371" vertical-offset="0" max-vertical-offset="388">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.72938144" vertical-offset="32" max-vertical-offset="450">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
           <folding />
         </state>
       </provider>

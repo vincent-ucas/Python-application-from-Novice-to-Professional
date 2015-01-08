@@ -12,4 +12,14 @@ def find_sender():
         m = pat.match(line)
         if m: print m.group(1)
 
-if __name__ == '__main__' : find_sender()
+# list all the email address of the head of email.
+def list_address():
+    addresses = set()
+    pat = re.compile(r'[a-z\-\.]+@[a-z\-\.]', re.IGNORECASE)
+    for line in fileinput.input('email.txt'):
+        for address in pat.findall(line):
+            addresses.add(address)
+    for address in sorted(addresses):
+        print address
+
+if __name__ == '__main__' : list_address()
