@@ -1,0 +1,15 @@
+Enter command ( ? for help )?
+The available commands are:
+store  : Stores informat about a person
+lookup : Looks up a person from ID
+quit   : Save changes and exit
+?      : Print this message
+Enter command ( ? for help )store
+Enter unique ID number: 007
+Enter name: vincent
+Enter age: 23
+Enter phone number: 123123123123
+Enter command ( ? for help )lookup
+Enter ID number: 007
+What would you like to know? (name/age/phone number)name
+Name:vincent

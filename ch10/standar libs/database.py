@@ -15,14 +15,14 @@ def store_person(db):
     
     db[pid] = person
 
-def lookup_person(db)
+def lookup_person(db):
 
     pid = raw_input('Enter ID number: ')
     field = raw_input('What would you like to know? (name/age/phone number)')
     field = field.strip().lower()
     print field.capitalize() + ':' + db[pid][field]
     
-def print_help()
+def print_help():
     print 'The available commands are:'
     print 'store  : Stores informat about a person'
     print 'lookup : Looks up a person from ID'
@@ -33,22 +33,22 @@ def enter_command():
     cmd = raw_input('Enter command ( ? for help )')
     cmd = cmd.strip().lower()
     return cmd
-    
+
 def main():
-    database = shelve.open('C:\\database.dat')  # address
+    data_base = shelve.open('database.dat')  # address
     try:
         while True:
             cmd = enter_command()
             if cmd == 'store':
                 store_person(data_base)
-            elif cmd == 'lookup'
+            elif cmd == 'lookup':
                 lookup_person(data_base)
-            elif cmd == 'quit'
-                return
-            elif cmd == '?'
+            elif cmd == '?':
                 print_help()
-                
-finally:
-    database.close()
+            elif cmd == 'quit':
+                return
+    finally:
+        data_base.close()
     
-if __name___=='__main__':main()
+if __name__ == '__main__': main()
+
