@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed87eaa7-fa28-451a-900a-8576e9bea14b" name="Default" comment="" />
+    <list default="true" id="ed87eaa7-fa28-451a-900a-8576e9bea14b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch11/words.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/filescript.py" afterPath="$PROJECT_DIR$/ch11/filescript.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Python-application-from-Novice-to-Professional.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +19,7 @@
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$database__1_.coverage" NAME="database (1) Coverage Results" MODIFIED="1420723657051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$textRegularExpression.coverage" NAME="textRegularExpression Coverage Results" MODIFIED="1420726464868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$time_mod.coverage" NAME="time_mod Coverage Results" MODIFIED="1420723701305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/module" />
-    <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$filescript.coverage" NAME="filescript Coverage Results" MODIFIED="1420987483706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11" />
+    <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$filescript.coverage" NAME="filescript Coverage Results" MODIFIED="1420988859286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$mod_test.coverage" NAME="mod_test Coverage Results" MODIFIED="1420723682873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/module" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$database.coverage" NAME="database Coverage Results" MODIFIED="1420719067882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -54,7 +58,7 @@
       <file leaf-file-name="textRegularExpression.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+            <state vertical-scroll-proportion="0.0" vertical-offset="62" max-vertical-offset="450">
               <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
               <folding />
             </state>
@@ -64,8 +68,31 @@
       <file leaf-file-name="filescript.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch11/filescript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34793815" vertical-offset="0" max-vertical-offset="388">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="390">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch10/standar libs/email.txt">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.037037" vertical-offset="104" max-vertical-offset="465">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="words.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch11/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -100,6 +127,7 @@
         <option value="$PROJECT_DIR$/ch10/module/mod_test.py" />
         <option value="$PROJECT_DIR$/ch10/standar libs/email.txt" />
         <option value="$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py" />
+        <option value="$PROJECT_DIR$/ch11/words.txt" />
         <option value="$PROJECT_DIR$/ch11/filescript.py" />
       </list>
     </option>
@@ -641,16 +669,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch10/standar libs/email.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6345178" vertical-offset="0" max-vertical-offset="591">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-        </state>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch10/standar libs/database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="900">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state vertical-scroll-proportion="-10.037037" vertical-offset="104" max-vertical-offset="465">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -663,10 +687,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch11/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch10/standar libs/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="900">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch11/filescript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34793815" vertical-offset="0" max-vertical-offset="388">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="390">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
           <folding />
         </state>
       </provider>
