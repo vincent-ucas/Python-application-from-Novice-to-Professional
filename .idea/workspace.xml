@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed87eaa7-fa28-451a-900a-8576e9bea14b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/importdata.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch12/roomcalc.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/filescript.py" afterPath="$PROJECT_DIR$/ch11/filescript.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/importdata.py" afterPath="$PROJECT_DIR$/ch13/importdata.py" />
     </list>
     <ignored path="Python-application-from-Novice-to-Professional.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$importdata.coverage" NAME="importdata Coverage Results" MODIFIED="1421042520800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch13" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$textRegularExpression.coverage" NAME="textRegularExpression Coverage Results" MODIFIED="1420726464868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$database__1_.coverage" NAME="database (1) Coverage Results" MODIFIED="1420723657051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/standar libs" />
     <SUITE FILE_PATH="coverage/Python-application-from-Novice-to-Professional$time_mod.coverage" NAME="time_mod Coverage Results" MODIFIED="1420723701305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10/module" />
@@ -50,9 +48,12 @@
       <file leaf-file-name="importdata.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch13/importdata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03521127" vertical-offset="0" max-vertical-offset="426">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="675">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <marker date="1421042609000" expanded="true" signature="316:541" placeholder="CREATE TABLE..food..." />
+                <marker date="1421042609000" expanded="true" signature="557:602" placeholder="INSERT INTO ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +89,8 @@
         <option value="$PROJECT_DIR$/ch10/standar libs/textRegularExpression.py" />
         <option value="$PROJECT_DIR$/ch11/words.txt" />
         <option value="$PROJECT_DIR$/ch11/filescript.py" />
-        <option value="$PROJECT_DIR$/ch13/importdata.py" />
         <option value="$PROJECT_DIR$/ch12/roomcalc.py" />
+        <option value="$PROJECT_DIR$/ch13/importdata.py" />
       </list>
     </option>
   </component>
@@ -242,26 +243,7 @@
       <recent name="$PROJECT_DIR$/ch10/standar libs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.roomcalc">
-    <configuration default="false" name="mod_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10/module" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-application-from-Novice-to-Professional" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10/module/mod_test.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.importdata">
     <configuration default="false" name="time_mod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,6 +317,25 @@
       <module name="Python-application-from-Novice-to-Professional" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch12/roomcalc.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="importdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-application-from-Novice-to-Professional" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch13/importdata.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -491,19 +492,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.mod_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.time_mod" />
-      <item index="2" class="java.lang.String" itemvalue="Python.textRegularExpression" />
-      <item index="3" class="java.lang.String" itemvalue="Python.filescript" />
-      <item index="4" class="java.lang.String" itemvalue="Python.roomcalc" />
+      <item index="0" class="java.lang.String" itemvalue="Python.time_mod" />
+      <item index="1" class="java.lang.String" itemvalue="Python.textRegularExpression" />
+      <item index="2" class="java.lang.String" itemvalue="Python.filescript" />
+      <item index="3" class="java.lang.String" itemvalue="Python.roomcalc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.importdata" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.roomcalc" />
-        <item index="1" class="java.lang.String" itemvalue="Python.filescript" />
-        <item index="2" class="java.lang.String" itemvalue="Python.textRegularExpression" />
-        <item index="3" class="java.lang.String" itemvalue="Python.time_mod" />
-        <item index="4" class="java.lang.String" itemvalue="Python.mod_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.importdata" />
+        <item index="1" class="java.lang.String" itemvalue="Python.roomcalc" />
+        <item index="2" class="java.lang.String" itemvalue="Python.filescript" />
+        <item index="3" class="java.lang.String" itemvalue="Python.textRegularExpression" />
+        <item index="4" class="java.lang.String" itemvalue="Python.time_mod" />
       </list>
     </recent_temporary>
   </component>
@@ -775,9 +776,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch13/importdata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03521127" vertical-offset="0" max-vertical-offset="426">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="675">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1421042609000" expanded="true" signature="316:541" placeholder="CREATE TABLE..food..." />
+            <marker date="1421042609000" expanded="true" signature="557:602" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
