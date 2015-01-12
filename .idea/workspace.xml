@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed87eaa7-fa28-451a-900a-8576e9bea14b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/importdata.py" afterPath="$PROJECT_DIR$/ch13/importdata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch13/data_query.py" />
     </list>
     <ignored path="Python-application-from-Novice-to-Professional.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,14 +45,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="importdata.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="importdata.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch13/importdata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="675">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="675">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding>
                 <marker date="1421042609000" expanded="true" signature="316:541" placeholder="CREATE TABLE..food..." />
                 <marker date="1421042609000" expanded="true" signature="557:602" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_query.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch13/data_query.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6690141" vertical-offset="0" max-vertical-offset="426">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <marker date="1421043130000" expanded="true" signature="109:133" placeholder="SELECT * FRO..food..." />
+                <marker date="1421043130000" expanded="true" signature="109:134" placeholder="SELECT * FRO..food..." />
               </folding>
             </state>
           </provider>
@@ -91,6 +104,7 @@
         <option value="$PROJECT_DIR$/ch11/filescript.py" />
         <option value="$PROJECT_DIR$/ch12/roomcalc.py" />
         <option value="$PROJECT_DIR$/ch13/importdata.py" />
+        <option value="$PROJECT_DIR$/ch13/data_query.py" />
       </list>
     </option>
   </component>
@@ -776,11 +790,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ch13/importdata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="675">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="99" max-vertical-offset="675">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding>
             <marker date="1421042609000" expanded="true" signature="316:541" placeholder="CREATE TABLE..food..." />
             <marker date="1421042609000" expanded="true" signature="557:602" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch13/data_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6690141" vertical-offset="0" max-vertical-offset="426">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1421043130000" expanded="true" signature="109:133" placeholder="SELECT * FRO..food..." />
+            <marker date="1421043130000" expanded="true" signature="109:134" placeholder="SELECT * FRO..food..." />
           </folding>
         </state>
       </provider>
