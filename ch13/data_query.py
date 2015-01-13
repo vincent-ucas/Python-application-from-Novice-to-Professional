@@ -16,4 +16,3 @@ for row in curs.fetchall():
     for pair in zip(names, row):
         print '%s: %s' % pair
     print
-
